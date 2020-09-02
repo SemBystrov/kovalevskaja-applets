@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+/views
+/router
 
 # local env files
 .env.local
